@@ -1,5 +1,4 @@
-number1= int(input())
-number2= int(input())
+number1, number2 = map(int, input().split())
 
 
 print (f"{number1} + {number2} = {number1 + number2}")
