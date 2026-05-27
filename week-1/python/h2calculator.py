@@ -1,1 +1,13 @@
- 
+n = int(input())
+m = int(input())
+
+nm = int(n/m)
+print (f"{n} + {m} = {n+m}")
+print ()
+print (f"{n} - {m} = {n-m}")
+print ()
+print (f"{n} * {m} = {n*m}")
+print ()
+print (f"{n} / {m} = {nm}")
+print ()
+print (f"{n} % {m} = {n%m}")
