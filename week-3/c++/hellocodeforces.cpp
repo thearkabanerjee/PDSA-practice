@@ -8,6 +8,5 @@ int main(){
     for (int i = 1; i <= a; i++){
         cout << "Hello Codeforces "<< i << endl;
     }
-    
     return 0;
 }
