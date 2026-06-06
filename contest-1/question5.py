@@ -8,3 +8,6 @@ for i in range(a):
         count += 1
     
 print (count)
+
+
+# fix mapping the numbers
