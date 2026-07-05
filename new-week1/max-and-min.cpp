@@ -6,9 +6,9 @@ int main(){
 
   cin >> a>> b;
 
-  if (a >= b ){
-    
-  }
+  cout << "Min = " << min(a, b) << endl;
+
+  cout << "Max = " << max(a, b) << endl;
 
 
 
