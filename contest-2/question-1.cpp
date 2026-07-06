@@ -14,3 +14,7 @@ int main(){
 
   return 0;
 }
+
+
+
+//this is what i am thinking am i even pushing some code
